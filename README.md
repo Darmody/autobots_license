@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    visit any url of your project, you will find X-power-by = Autobots in response header.
 
 ## Development
 
