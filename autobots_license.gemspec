@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "autobots_license"
   spec.version       = AutobotsLicense::VERSION
   spec.authors       = ["darmody"]
-  spec.email         = ["darmody@che3bao.com"]
+  spec.email         = ["eterlf41@gmail.com"]
 
-  spec.summary       = %q{summary}
-  spec.description   = %q{description}
-  spec.homepage      = "http://github.com/Darmody"
+  spec.summary       = %q{autobots license}
+  spec.description   = %q{instruction that the response is powered by autobots}
+  spec.homepage      = "https://github.com/Darmody/autobots_license"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
